@@ -119,6 +119,12 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
+    laoya: {
+      name: "老鸭1",
+      api: "https://api.apilyzy.com/api.php/provide/vod",
+      playUrl: "json:https://player.77lehuo.com/aliplayer/?url=",
+      adult: true
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
