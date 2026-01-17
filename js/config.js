@@ -114,16 +114,15 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    laoya: {
+      name: '老鸭1',
+      api: 'https://api.apilyzy.com/api.php/provide/vod',
+      adult: true
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    },
-    laoya: {
-      name: "老鸭1",
-      api: "https://api.apilyzy.com/api.php/provide/vod",
-      playUrl: "json:https://player.77lehuo.com/aliplayer/?url=",
-      adult: true
     },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
